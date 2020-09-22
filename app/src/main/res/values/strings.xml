@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Layout</string>
+
+    <string-array name="values">
+        <item>"ldpi"</item>
+        <item>"mdpi"</item>
+        <item>"tvdpi"</item>
+        <item>"hdpi"</item>
+        <item>"xhdpi"</item>
+    </string-array>
+</resources>
